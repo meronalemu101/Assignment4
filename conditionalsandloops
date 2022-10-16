@@ -1,7 +1,6 @@
 1)
 #please change response items to recieve all possible responses from the script.
-
-response = '2'
+response = 'NaN'
 if response == '1' or response == '2':
     print("OK")
 elif response == 'NaN':
